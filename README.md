@@ -1,10 +1,10 @@
 # Ex. No. 3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 18.04.2023
-## AIM: 
+### AIM: 
  To prototype the given part model design in 3D Printer.
 
-## REQUIREMENTS:
+### REQUIREMENTS:
  ●	3D Printer machine.
  ●	CURA 4.0 Software.
  ●	Autodesk Fusion 360 Software.
@@ -12,15 +12,15 @@
 
 ## PROCEDURE:
 
-# Step 1:- 
+### Step 1:- 
 Check all Electrical connections.
 
-# Step 2:-
+### Step 2:-
 First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option as shown in below figure.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/059ab4e7-f3fb-49a9-ba8e-12bdd082abef)
 
-# Step 3:- 
+### Step 3:- 
 select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/835c55fd-6195-4d73-9f5c-4af36f5a4cce)
@@ -54,9 +54,9 @@ After generating the gcode format then follow the these instruction as shown in 
 
 ## Output:
 ![1](https://github.com/Yuvaraj878/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118622554/09996c8c-2cb4-49d1-9b91-fc3acd882031)
+ Name: RAMYA R
 
-### Name: RAMYA R
-### Register Number: 212223230169
+ Register Number: 212223230169
 
 ## RESULT:
   Thus a prototype of the given part model is developed using 3D Printer.
